@@ -1,0 +1,6 @@
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Release\EDSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Release\EDSDKLib.pdb

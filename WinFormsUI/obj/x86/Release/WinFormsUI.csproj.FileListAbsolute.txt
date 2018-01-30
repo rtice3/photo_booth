@@ -1,0 +1,15 @@
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\WinFormsUI.exe.manifest
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\WinFormsUI.application
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\WinFormsUI.exe
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\WinFormsUI.pdb
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\EDSDKLib.pdb
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\bin\Release\EDSDKLib.xml
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.MainForm.resources
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.Properties.Resources.resources
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.csproj.GenerateResource.Cache
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.exe.manifest
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.application
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.exe
+C:\Users\rob\Documents\GitHub\photo_booth\WinFormsUI\obj\x86\Release\WinFormsUI.pdb

@@ -1,0 +1,10 @@
+C:\Users\rob\Documents\GitHub\PhotoBooth\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\PhotoBooth\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.pdb
+C:\Users\rob\Documents\GitHub\PhotoBooth\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\rob\Documents\GitHub\PhotoBooth\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\PhotoBooth\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\bin\Debug\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\bin\Debug\EDSDKLib.pdb
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+C:\Users\rob\Documents\GitHub\photo_booth\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
